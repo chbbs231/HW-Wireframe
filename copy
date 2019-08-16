@@ -1,0 +1,13 @@
+ <div> <H1>Arturo Torres </H1>
+   <div id="links">
+      <a href="./about me.html">About Me</a>
+    <a href="./portfolio.html">Portfolio</a>  
+    <a href="./contact.html">Contact Me</a>
+  </div>
+    </div> 
+
+<div id="a">
+    <h2>About me</h2> 
+    <img src="http://lorempixel.com/400/200/" alt="burger">
+    <P>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo omnis enim commodi sed eveniet rerum voluptatibus sequi, natus, cumque aliquam ipsam labore ducimus quo aspernatur laboriosam alias at molestiae eaque.</P>
+    </div>
