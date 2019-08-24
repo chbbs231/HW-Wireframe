@@ -11,7 +11,8 @@ body {
   }
   
   /* general */
-  
+  .pages {float: right;
+margin-left: 10px}
   .container {
 	width: 100%;
 	max-width: 960px;
@@ -215,4 +216,5 @@ body {
 	background: #4aaaa5;
 	border: 0 none;
   }
+  @media 
   
